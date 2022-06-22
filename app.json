@@ -1,6 +1,6 @@
 {
-  "name": "快速部署demo",
-  "description": "Deploy demo.",
+  "name": "kij",
+  "description": "kij",
   "keywords": ["V", "X"],
   "env": {
     "ProxySite": {
